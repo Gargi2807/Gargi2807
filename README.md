@@ -1,7 +1,14 @@
 # 👋 Hi there, I'm Gargi!
 
 ![Profile views](https://komarev.com/ghpvc/?username=Gargi2807&color=blue)
-
+- 👋 Hi, I’m @Gargi2807
+- 👀 Interested in UI/UX designing as well as development
+- 🌱 DSA in Java
+- Currently learning MERN
+- 💞️ I’m looking to collaborate on web dev projects.
+- 📫 How to reach me :https://www.linkedin.com/in/gargi-barman-626788279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫:gargibarman03@gmail.com
+- 😄 Pronouns: She/Her
 ---
 
 ## When I code, I rely on
